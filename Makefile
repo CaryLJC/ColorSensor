@@ -9,7 +9,7 @@ _IGNORE1 := $(shell test -f $(JD_STM)/stm32/cmsis_device_g0/README.md || git sub
 
 include Makefile.user
 
-DROP_TARGETS ?= acme-corp-button
+DROP_TARGETS ?= colorsensor-1.0
 
 
 include $(JD_STM)/build.mk
