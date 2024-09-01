@@ -1,4 +1,4 @@
-TRG = targets/colorsensor-1.0/profile/ColorSensor.c
+TRG = colorsensor-1.0 ColorSensor
 
 # use -j1 or empty to disable parallel build; use -j16 or whatever if you have lots of cores
 # defaults to -j8
